@@ -1,0 +1,52 @@
+{
+    "iconDefinitions": {
+        "_file": {
+            "iconPath": "./nyancat.gif"
+        },
+        "_balloon": {
+            "iconPath": "./balloon.gif"
+        },
+        "_dub": {
+            "iconPath": "./dub.gif"
+        },
+        "_floppy": {
+            "iconPath": "./floppy.gif"
+        },
+        "_gb": {
+            "iconPath": "./gb.gif"
+        },
+        "_coin": {
+            "iconPath": "./nyancoin.gif"
+        },
+        "_pika": {
+            "iconPath": "./pikanyan.gif"
+        },
+        "_pirate": {
+            "iconPath": "./pirate.gif"
+        },
+        "_retro": {
+            "iconPath": "./retro.gif"
+        },
+        "_folder": {
+            "iconPath": "./nyancat.gif"
+        }
+    },
+    "file": "_file",
+    "folder": "_folder",
+    "fileExtensions": {
+        "html": "_coin",
+        "js": "_gb",
+        "ts": "_gb",
+        "css": "_retro",
+        "scss": "_retro",
+        "sass": "_retro",
+        "less": "_retro",
+        "java": "_floppy",
+        "xml": "_pirate",
+        "yaml": "_pirate",
+        "ico": "_file",
+        "bat": "_file",
+        "md": "_file",
+        "json": "_pika"
+    }
+}
